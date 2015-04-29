@@ -6,5 +6,4 @@ Demo for git add.
 Demo for git pull origin master.
 Demo at 中山大學。
 
-
-test for git
+test
